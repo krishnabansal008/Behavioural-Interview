@@ -4,13 +4,15 @@
 * autonomy 
 * exposure to other works orgnization 
 * rewards and recognition (compensation , promotion)
+* regular connect
 
 
 ## How will you handle a low performer?
-(assuming a loweer peformer has been identified) 
-* gather data points - like velcoity , quality of work including 360 feedback
-* communicate with team member , agreed on it , put a plan for improvment (provide support training extra)
-* monitor them , two possible outcomes 1) let go 2) improve performance
+(assuming a lower peformer has been identified already)
+* gather data points - like velcoity, quality of work including 360 feedback
+* communicate with team member, agree on it, put a plan for improvment (provide support training extra)
+* touch upon if there are any personal reasons or external factors which may be causing the low perfromance
+* monitor them, two possible outcomes 1) let go 2) improved performance
 
 Good to mention - swifly moving on help to make sure it doesn't imapct team morale extra
 
@@ -20,10 +22,14 @@ Good to mention - swifly moving on help to make sure it doesn't imapct team mora
 * challenging work 
 * learning opportunities
 
-# More questions to cover 
-
 ## Tell me a new process you started 
-## tell me time you had a disagreeement with your manager 
-## tell me time you went above and beyond 
+## Tell me time you had a disagreeement with your manager 
+## Tell me time you went above and beyond 
 ## How will you setup a team from scratch
+## How will you identify a low performer
+## How will you get started in an existing/established team
+## How will you nativagte through a proprietary tech stack
+## How will you handle difficult conversation with your reportee? like - Layoff
+## How will you handle year-end performance related conversation?
+## How can you lead by example
  
