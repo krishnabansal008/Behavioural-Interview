@@ -23,6 +23,8 @@ Good to mention - swifly moving on help to make sure it doesn't imapct team mora
 * learning opportunities
 
 ## Tell me a new process you started 
+* 
+
 ## Tell me time you had a disagreeement with your manager 
 ## Tell me time you went above and beyond 
 ## How will you setup a team from scratch
@@ -32,4 +34,8 @@ Good to mention - swifly moving on help to make sure it doesn't imapct team mora
 ## How will you handle difficult conversation with your reportee? like - Layoff
 ## How will you handle year-end performance related conversation?
 ## How can you lead by example
- 
+
+## How can you showcase your teams accomplishment in front of larger audience
+* talk about data
+* demonstrate customer impact (ease of use)
+* demonstrate time saved 
