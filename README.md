@@ -1,3 +1,4 @@
+# Sample Question and Answers
 ## How will you handle a high performer?
 * sufficiently challenged
 * autonomy 
@@ -22,8 +23,7 @@ Good to mention - swifly moving on help to make sure it doesn't imapct team mora
 # More questions to cover 
 
 ## Tell me a new process you started 
-
 ## tell me time you had a disagreeement with your manager 
-
 ## tell me time you went above and beyond 
+## How will you setup a team from scratch
  
