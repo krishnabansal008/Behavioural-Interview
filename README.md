@@ -1,4 +1,6 @@
 # Sample Question and Answers
+* Keep in mind the Job Description while answering the question
+  
 ## How will you handle a high performer?
 * sufficiently challenged
 * autonomy 
@@ -22,10 +24,19 @@ Good to mention - swifly moving on help to make sure it doesn't imapct team mora
 * challenging work 
 * learning opportunities
 
-## Tell me a new process you started 
-* 
+## Tell me time you had a disagreement with your manager
+* rephrase: having a good relationship with manager in general
+* bring point in 1:1 mode and have supporting data
+* 2 months remaining in the delivery and manager asked to prepone by 4 weeks
+* discussed with the Product lead (the person who requested the change) and decided on the Hardcoded product feature and record the demo
 
-## Tell me time you had a disagreeement with your manager 
+## How will you handle conflict among team members
+* Dev and QA
+
+## Critical feedback received from manager
+* Comm with stakeholder
+
+## Tell me a new process you started
 ## Tell me time you went above and beyond 
 ## How will you setup a team from scratch
 ## How will you identify a low performer
@@ -34,7 +45,6 @@ Good to mention - swifly moving on help to make sure it doesn't imapct team mora
 ## How will you handle difficult conversation with your reportee? like - Layoff
 ## How will you handle year-end performance related conversation?
 ## How can you lead by example
-
 ## How can you showcase your teams accomplishment in front of larger audience
 * talk about data
 * demonstrate customer impact (ease of use)
